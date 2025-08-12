@@ -34,7 +34,7 @@ A simple and fun React app that fetches and displays random jokes from the Offic
 
 ## 🔗 Live Demo
 
-[Add your live demo URL here]
+https://isinghabhii-random-joke-generator.netlify.app/
 
 ---
 
