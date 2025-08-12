@@ -1,12 +1,44 @@
-# React + Vite
+# React Random Joke Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fun React app that fetches and displays random jokes from the Official Joke API. Instantly get a new joke with just a click! Perfect for quick laughs and lightening your mood.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+✅ Fetches random jokes with setup and punchline  
+✅ Get a new joke instantly without page reload  
+✅ Clean, minimal, and responsive UI  
+✅ Built with React functional components and hooks  
+✅ Handles loading state smoothly  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+⚛️ React.js (Frontend)  
+🌐 Fetch API (Data fetching)  
+🎨 CSS3 (Styling and responsiveness)  
+
+---
+
+## 💡 What I Learned
+
+✅ Using `useState` and `useEffect` hooks for managing state and side effects  
+✅ Fetching data asynchronously in React  
+✅ Handling API errors gracefully  
+✅ Building a simple, reusable component  
+✅ Styling React components with CSS  
+
+---
+
+## 🔗 Live Demo
+
+[Add your live demo URL here]
+
+---
+
+## Usage
+
+- The app automatically shows a random joke on load.  
+- Click **Get New Joke** to fetch another joke instantly.  
